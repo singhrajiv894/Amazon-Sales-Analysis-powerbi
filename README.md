@@ -29,6 +29,6 @@ Power BI Desktop · DAX · Power Query · Excel/CSV
 ├── images/      → dashboard screenshots
 └── reports/     → PDF export of the dashboard
 ```
-![Amazon Sales Dashboard](./images/amazon-sales-dashboard.jpg)
+![Amazon Sales Dashboard](./Dashboards%20Amazon%20sales.JPG.jpeg)
 ## 👤 Author
 **[Your Name]** · [LinkedIn link] · [Email]
