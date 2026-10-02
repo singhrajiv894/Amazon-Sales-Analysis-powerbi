@@ -31,4 +31,5 @@ Power BI Desktop · DAX · Power Query · Excel/CSV
 ```
 ![Amazon Sales Dashboard](./Dashboards%20Amazon%20sales.JPG.jpeg)
 ## 👤 Author
-**[Your Name]** · [LinkedIn link] · [Email]
+*Rajiv Kumar | Data Analyst | SQL | Excel | Power BI | Python*
+🔗 [LinkedIn](https://www.linkedin.com/in/rajiv-kumar-da/)
