@@ -1,6 +1,5 @@
 # 📊 Amazon Sales Analysis – Power BI Dashboard
 An interactive Power BI dashboard analyzing Amazon product sales across categories, time periods and customer reviews.
-![Dashboard Preview](images/dashboard_preview.jpg)
 ## 🎯 Objective
 Track sales performance, identify top products and categories, and understand monthly and weekly trends.
 ## 📌 Key Metrics
@@ -30,7 +29,6 @@ Power BI Desktop · DAX · Power Query · Excel/CSV
 ├── images/      → dashboard screenshots
 └── reports/     → PDF export of the dashboard
 ```
-## 📊 Dashboard Preview
-![Amazon Sales Dashboard](./amazon-sales-dashboard.jpg)
+![Amazon Sales Dashboard](./images/amazon-sales-dashboard.jpg)
 ## 👤 Author
 **[Your Name]** · [LinkedIn link] · [Email]
