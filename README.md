@@ -30,10 +30,7 @@ Power BI Desktop · DAX · Power Query · Excel/CSV
 ├── images/      → dashboard screenshots
 └── reports/     → PDF export of the dashboard
 ```
-## ▶️ How to Use
-1. Download or clone this repository.
-2. Open `dashboard/amazon_sales_dashboard.pbix` in Power BI Desktop.
-3. If prompted, update the data source path to the `data/processed/` folder.
-4. Use the left-hand filters to explore the data.
+## 📊 Dashboard Preview
+![Amazon Sales Dashboard](./amazon-sales-dashboard.jpg)
 ## 👤 Author
 **[Your Name]** · [LinkedIn link] · [Email]
